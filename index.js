@@ -9,7 +9,7 @@
 //This variable is equal to the string that should print a message before displaying your secret code 
 const str1 = 'You have received this message because you have been chosen to open an important vault. Here is the secret combination:'
 
-//Variable contain the arthematic operators and calcualtions to output the final combination numbers
+//3 constant variables containing the arthematic operators and calcualtions to output the final combination numbers
 const num1 = 5 + 5;
 const num2 = 4 * 10;
 const num3 = num2 - 1;
