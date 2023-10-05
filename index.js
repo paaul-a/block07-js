@@ -3,7 +3,8 @@
 //Make three const variables that contain an equation for each number in the combination
 //Using + arthematic operator to print the value of 10 num1 variable should equal 5 + 5
 //Using * arthematic operator to print the value of 40 num2 variable should eaual 4 * 10
-//Using - and * operators to print the value of 39 set num3 variable to equal num2 - 1
+//Using const var num2 and - operator to print the value of 39 set num3 variable to equal num2 - 1
+//Beacuse num2 equals 40 we can use that variable to subtract 1 from to get pring the final result 39
 
 //This variable is equal to the string that should print a message before displaying your secret code 
 const str1 = 'You have received this message because you have been chosen to open an important vault. Here is the secret combination:'
